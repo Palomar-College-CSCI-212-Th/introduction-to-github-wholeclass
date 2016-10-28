@@ -6,13 +6,14 @@
 // Prototypes
 void PrintJohnDoe();
 void PrintLemDavis();
+void PrintJustinVanBibber();
 
 // Main
 int main(void)
 {
 	PrintJohnDoe();
 	PrintLemDavis();
-
+	PrintJustinVanBibber();
 	// Make a new function to print your name.
 	// Create a new macro in your function as in the example code.
 	// Your name should be printed three times.
