@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 // Prototypes
-void PrintJohnDoe();
+void PrintMattAffa();
 void PrintLemDavis();
 
 // Main
@@ -12,6 +12,7 @@ int main(void)
 {
 	PrintJohnDoe();
 	PrintLemDavis();
+	PrintMattAffa();
 
 	// Make a new function to print your name.
 	// Create a new macro in your function as in the example code.
