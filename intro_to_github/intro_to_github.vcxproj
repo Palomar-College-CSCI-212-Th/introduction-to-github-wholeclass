@@ -146,7 +146,9 @@
     <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>
+    <MASM Include="MyNameIsKhan(KeithWilliam).asm" />
     <MASM Include="my_name_is_john_doe.asm" />
+    <MASM Include="my_name_is_justin_van_bibber.asm" />
     <MASM Include="my_name_is_kent_nguyen.asm" />
     <MASM Include="my_name_is_lem_davis.asm" />
   </ItemGroup>
