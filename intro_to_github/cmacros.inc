@@ -6,8 +6,7 @@
 ; These libraries are needed for the C library functions.
 ; Could also add them to the linker Additional Dependencies line
 INCLUDELIB msvcrtd
-INCLUDELIB legacy_stdio_definitions
-INCLUDELIB ucrtd
+
 
 ; Usual directives
 .model flat,C
