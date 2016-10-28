@@ -4,15 +4,15 @@
 #include <stdio.h>
 
 // Prototypes
-void PrintJohnDoe();
-void PrintLemDavis();
-
+//void PrintJohnDoe();
+//void PrintLemDavis();
+void PrintDevonSherrell();
 // Main
 int main(void)
 {
-	PrintJohnDoe();
-	PrintLemDavis();
-
+	//PrintJohnDoe();
+	//PrintLemDavis();
+	PrintDevonSherrell();
 	// Make a new function to print your name.
 	// Create a new macro in your function as in the example code.
 	// Your name should be printed three times.
