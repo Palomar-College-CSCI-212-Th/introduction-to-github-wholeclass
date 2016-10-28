@@ -8,9 +8,6 @@
 INCLUDELIB msvcrtd
 
 
-; Usual directives
-.model flat,C
-
 ; Declare some standard C functions externals
 extern printf:PROC
 extern putchar:PROC
