@@ -9,9 +9,6 @@ INCLUDELIB msvcrtd
 INCLUDELIB legacy_stdio_definitions
 INCLUDELIB ucrtd
 
-; Usual directives
-.model flat,C
-
 ; Declare some standard C functions externals
 extern printf:PROC
 extern putchar:PROC

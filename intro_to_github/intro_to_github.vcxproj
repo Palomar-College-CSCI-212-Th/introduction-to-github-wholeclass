@@ -146,6 +146,7 @@
     <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>
+    <MASM Include="my_name_is_Alex_Joslin.asm" />
     <MASM Include="my_name_is_john_doe.asm">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
     </MASM>
@@ -158,7 +159,9 @@
     <MASM Include="MyNameIsKhan(KeithWilliam).asm" />
     <MASM Include="my_name_is_john_doe.asm" />
     <MASM Include="my_name_is_justin_van_bibber.asm" />
+    <MASM Include="my_name_is_kent_nguyen.asm" />
     <MASM Include="my_name_is_lem_davis.asm" />
+    <MASM Include="my_name_is_maverick_doss.asm" />
   </ItemGroup>
   <ItemGroup>
     <None Include="cmacros.inc" />

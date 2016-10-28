@@ -23,15 +23,23 @@
     <None Include="cmacros.inc">
       <Filter>Header Files</Filter>
     </None>
+    <None Include="my_name_is_john_doe.asm">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="my_name_is_john_doe.asm">
-      <Filter>Source Files</Filter>
-    </MASM>
     <MASM Include="my_name_is_lem_davis.asm">
       <Filter>Source Files</Filter>
     </MASM>
+    <MASM Include="my_name_is_john_doe.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
     <MASM Include="my_name_is_matt_affa.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="my_name_is_kent_nguyen.asm">
+    <MASM Include="my_name_is_lem_davis.asm">
+    <MASM Include="my_name_is_Alex_Joslin.asm">
       <Filter>Source Files</Filter>
     </MASM>
   </ItemGroup>
