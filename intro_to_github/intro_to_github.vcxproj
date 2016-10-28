@@ -148,6 +148,7 @@
   <ItemGroup>
     <MASM Include="my_name_is_john_doe.asm" />
     <MASM Include="my_name_is_lem_davis.asm" />
+    <MASM Include="my_name_is_maverick_doss.asm" />
   </ItemGroup>
   <ItemGroup>
     <None Include="cmacros.inc" />
