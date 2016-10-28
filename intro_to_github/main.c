@@ -6,6 +6,7 @@
 // Prototypes
 void PrintJohnDoe();
 void PrintLemDavis();
+void PrintKentNguyen();
 //void PrintAlexJoslin();
 
 // Main
@@ -13,6 +14,8 @@ int main(void)
 {
 	PrintJohnDoe();
 	PrintLemDavis();
+	PrintKentNguyen();
+
 	//	PrintAlexJoslin();
 	// Make a new function to print your name.
 	// Create a new macro in your function as in the example code.
