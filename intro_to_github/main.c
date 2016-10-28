@@ -7,6 +7,7 @@
 void PrintJohnDoe();
 void PrintLemDavis();
 void PrintKentNguyen();
+void PrintMaverickDoss();
 
 // Main
 int main(void)
@@ -14,7 +15,8 @@ int main(void)
 	PrintJohnDoe();
 	PrintLemDavis();
 	PrintKentNguyen();
-
+	PrintMaverickDoss();
+	
 	// Make a new function to print your name.
 	// Create a new macro in your function as in the example code.
 	// Your name should be printed three times.
