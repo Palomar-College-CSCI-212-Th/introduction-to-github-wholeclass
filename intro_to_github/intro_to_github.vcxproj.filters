@@ -31,5 +31,8 @@
     <MASM Include="my_name_is_lem_davis.asm">
       <Filter>Source Files</Filter>
     </MASM>
+    <MASM Include="MyNameIsKhan(KeithWilliam).asm">
+      <Filter>Source Files</Filter>
+    </MASM>
   </ItemGroup>
 </Project>
